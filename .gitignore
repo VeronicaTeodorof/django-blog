@@ -1,2 +1,5 @@
 .venv/
 env.py
+
+# Django collected static files
+staticfiles/
